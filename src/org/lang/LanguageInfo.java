@@ -13,5 +13,8 @@ public void hindiLanguage() {
 	System.out.println("Language No:3 Hindi");
 
 }
+public void malayalam() {
+	System.out.println("Malayalam");
+}
 	
 }
