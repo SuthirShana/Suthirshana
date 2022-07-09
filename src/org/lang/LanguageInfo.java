@@ -13,5 +13,8 @@ public void hindiLanguage() {
 	System.out.println("Language No:3 Hindi");
 
 }
+private void kanada() {
+	System.out.println("Kanada");
+}
 	
 }
