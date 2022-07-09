@@ -16,5 +16,10 @@ public void hindiLanguage() {
 public void malayalam() {
 	System.out.println("Malayalam");
 }
+private void kanada() {
+	System.out.println("Kanada");
+	
+	
+}
 	
 }
